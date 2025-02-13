@@ -106,7 +106,7 @@ The script generates logs with the following information:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-- Built using the [Pillow]((https://pillow.readthedocs.io/en/stable/)) library
+- Built using the [Pillow](https://pillow.readthedocs.io/en/stable/) library
 - Inspired by the need for high-quality image format conversion
 - Thanks to all contributors
 
